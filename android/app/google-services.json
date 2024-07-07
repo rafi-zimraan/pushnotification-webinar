@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163198129943",
+    "project_id": "webinarpushnotification-63430",
+    "storage_bucket": "webinarpushnotification-63430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163198129943:android:68a233b9126185541d0952",
+        "android_client_info": {
+          "package_name": "com.webinarpushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9seVNI_KUsNItb1voZ4b3MRsvnC4_zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
