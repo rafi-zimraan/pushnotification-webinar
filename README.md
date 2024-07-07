@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Image Application
-![alt text](https://github.com/rafi-zimraan/KOSTQU/blob/main/src/assets/images/LoginKos.png).
+![alt text](https://github.com/rafi-zimraan/pushnotification-webinar/blob/main/images/imagesApp.jpeg).
 
 
 # Getting Started
